@@ -1,0 +1,92 @@
+
+
+table{
+    width: 600px;
+    text-align: center;
+    /* border-collapse: collapse; */
+}
+/* table,tr,th,td{
+    border: 2px solid yellowgreen;
+} */
+.color1{
+    background-color: yellow;
+}
+.color2{
+    background-color:#fab533 ;
+}
+.color3{
+    background-color:#ff5538 ;
+}
+.color4{
+    background-color: #08affc;
+}
+.color5{
+    background-color:#7acb8f;
+}
+.color6{
+    background-color:#b075c0;
+}
+.color7{
+    background-color:#adb0b4;
+}
+.color8{
+    background-color:#ffd2cd;
+}
+.color9{
+    background-color: #9257c0;
+}
+.color10{
+    background-color:#2631ff;
+}
+.color11{
+    background-color:#006d00;
+}
+.color12{
+    background-color:#ff7d81;
+}
+.color13{
+    background-color: #c8d737;
+}
+.demo{
+    background-color: #d6d1cf;
+    color: #4d4191;
+    font-size: 30px;
+    text-align: center;
+}
+.demo2{
+    color: red;
+    background-color: powderblue;
+}
+.footer{
+    background-color: #45d66a;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.deco{
+        background-color: powderblue;
+    text-decoration: underline wavy;
+    text-transform: capitalize;
+    }
+    h1{
+        color: 0;;
+        background-color:gray;
+    }
+    .thnk{
+        color: blue;
+        background-color: #45d66a;
+    }
+    .rout{
+        color: green;
+        background-color: #ffd2cd;
+    }
+    ::placeholder{
+        text-shadow: 1px 10px 10px ;
+        
+    }
+    fieldset{
+        background-color: powderblue;
+    }
+    h2{
+        background-color: powderblue;
+    }
